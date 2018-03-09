@@ -112,7 +112,7 @@ body {
     height: 100vh;
     position:fixed;
     top:0%;
-    color:yellow;
+    color:red;
     font-size: 140px;
     display: flex;
     justify-content: center;
